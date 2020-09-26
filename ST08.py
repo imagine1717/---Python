@@ -6,3 +6,4 @@ print(tup1) # 输出元组所有元素
 tup2 = ('python2','python3','java8','java15')
 print(tup2[0] )
 print(tup2[1:5])
+# 111
